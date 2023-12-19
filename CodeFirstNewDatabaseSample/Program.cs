@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CodeFirstNewDatabaseSample;
 
-Console.WriteLine("Hello, World!");
+// Link ref: https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database
 
 using (var db = new BloggingContext())
 {
